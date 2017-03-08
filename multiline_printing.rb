@@ -3,8 +3,8 @@
 days = "Mon Tue Wed Thu Fri Sat Sun"
 months = "\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 
-puts "Here are the days: #{days}"
-puts "Here are the months: #{months}"
+puts "Here are the days: #{days}" #prints as seen
+puts "Here are the months: #{months}" #prints each month on a new line due to the newline
 
 puts %q{
 There's something going on here.
